@@ -16,11 +16,12 @@ public class FourSquare {
 		// 6. Use a for loop to repeat steps #7 to #8, four times...
 		for(int i=0; i<4 ; i++) {
 			// 7. Set the pen color to random
-			oreo
+			oreo.setRandomPenColor();
 			// 1. Call the drawSquare() method
 	drawSquare();
 			// 8. Turn the robot 90 degrees to the right
-			
+			oreo.turn(90);
+		}
 	}
 
 	

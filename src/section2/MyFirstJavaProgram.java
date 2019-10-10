@@ -17,17 +17,7 @@ oreo.turn(90);
 }	
 oreo.move(200);
 oreo.turn(90);
-oreo.turn(90);
-oreo.move(200);
-oreo.move(200);
-oreo.turn(90);
-oreo.move(200);
-oreo.sparkle();
-oreo.turn(90);
-oreo.move(200);
-oreo.move(200);
-oreo.turn(90);
-oreo.move(200);
+
 
 
 		
